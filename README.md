@@ -6,4 +6,8 @@ eg gateway create
 ```
 
 
-check `nginx/conf/nginx.conf` file. 
+check `nginx/conf/nginx.conf` file.
+```sh
+nginx start
+curl http://localhost
+```
